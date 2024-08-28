@@ -21,7 +21,7 @@ To successfully complete the assignment, follow these steps:
 
     - Windows: Win + Shift + S (then select the area to capture)
     - Mac: Cmd + Shift + 4 (then select the area to capture)
-    - example ![Alt text](image/Screenshot.png)
+    - example ![Screenshot of the virtual environment](image/Screenshot.png)
 
 1. Complete All Questions
     - Work through and complete all the questions in the notebook.
@@ -35,7 +35,7 @@ To successfully complete the assignment, follow these steps:
 --- 
 ## Insert the screenshot below:
   - Your screenshot of the virtual environment here:
-![Alt text](your image path here)
+![Alt text](screenshot_ag.jpg)
 
 
 Virtual Environment Commands
